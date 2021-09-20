@@ -1,0 +1,29 @@
+body { 
+    color: red;
+}
+.black-border { border: 5px solid black;
+}
+#pink-background {background-color: pink;
+}
+.uitleg-yoshi {color: greenyellow 
+}
+.uitleg-dikkiedik {color: orange
+}
+.uitleg-dartbord {color: red
+}
+.uitleg-index, .list-fontessa {color: plum
+}
+footer, .opsomming, h2 {font-style: italic
+}
+.orange-background {background-color: #f7e0ae;
+}
+.green-background {background-color: rgb(9, 148, 9);
+}
+.list-fontessa {font-family: cookie; font-size: 18pt
+}
+.taart {font-family: Gluten; font-size: 26pt
+}
+.body-fontessa {color: rgb(44, 209, 238)
+}
+h2 {font-size: larger; font-family:'Courier New', Courier, monospace
+}
