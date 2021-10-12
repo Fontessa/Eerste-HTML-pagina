@@ -2,6 +2,8 @@ body {
     color: red;
 }
 .black-border { border: 5px solid black;
+    margin: 15px;
+    padding: 20px
 }
 #pink-background {background-color: pink;
 }
@@ -27,3 +29,64 @@ footer, .opsomming, h2 {font-style: italic
 }
 h2 {font-size: larger; font-family:'Courier New', Courier, monospace
 }
+header {border: 12px #dcaef7 double;
+    margin: 50px 15px 15px 15px
+}
+body {border: 5px #f5ecbc dashed;
+    padding: 15px;
+    margin: 0 auto;
+    width: 95%
+}
+.lijst-van-dingen {border: 10px #cbe7f7 ridge;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 30px;
+}
+main {border: 8px #d0d4fa inset;
+    margin: 15px;
+}
+footer {border: 4px #fac6ed outset;
+    margin: 15px;
+    padding: 10px 30px
+}
+.stuk-1 {border: 3px rgb(32, 30, 30) dotted;
+    margin: 15px;
+    padding: 10px 50px
+}
+.stuk-2 {border: 3px rgb(32, 30, 30) dotted;
+    margin: 15px;
+    padding: 10px 80px
+}
+.stuk-3 {border: 3px rgb(32, 30, 30) dotted;
+    margin: 0 auto;
+    padding: 40px 10px;
+    width: 40%
+}
+.stuk-4 {border: 3px rgb(32, 30, 30) dotted;
+    margin: 15px;
+    padding: 10px 250px
+}
+.opsomming {padding: 25px 15px;
+    margin: 10px 
+}
+.taart {padding: 25px 30px;  
+}
+.body-fontessa {margin: 0 auto;
+    padding: 40px 10px;
+    width: 40%
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.navigatie li {
+    display: inline;
+    float: left
+  }
+.navigatie a {
+    display: block;
+    padding: 10px;
+    margin: 0px 0px 0px 15px;
+    background-color: #dddddd;
+  }
